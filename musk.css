@@ -1,0 +1,83 @@
+nav{
+    margin-left: 65%;
+    display: block;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+#img elon{
+    width: 220px;
+}
+.leftBox {
+	float: left;
+    margin: 0 200px 0 300px;
+    width:220px;
+	margin-top: 25px;
+}
+.rightBox {
+	float: left;
+    color: blue;
+	width: 650px;
+	margin-top: 50px;
+}
+.rightBox h3{
+   margin-left: 45%;
+    text-decoration: underline;
+	color: black;
+}
+#ComFou h3{
+    margin-left: 45%;
+    text-decoration: underline;
+	color: black;
+}
+#X h3{
+    margin-left: 45%;
+    text-decoration: underline;
+    color: black;
+}
+#X p{
+    float: left;
+    color: blue;
+    width: 650px;
+    margin-top:0px;
+}
+#ComFou img{
+    width:220px;
+}
+#spacex p{
+    margin-top:0px;
+}
+.box h3{
+	width: 650px;
+}
+
+#Awards h3{
+	padding-left: 400px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#Awards ol li:nth-child(odd) {
+	color: red;
+}
+
+#Awards ol li:nth-child(even) {
+	color: blue;
+}
+
+#PopMedia h3 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+#PopMedia ul li:nth-child(odd) {
+	color: blue;
+}
+
+#PopMedia ul li:nth-child(even) {
+	color: red;
+}
+
+
